@@ -6,6 +6,6 @@
 - 👓 I'm looking to collaborate on **Augmented Reality Projects**
 - 📕 All of my projects are available at [https://github.com/Andyagus]("https://github.com/Andyagus")
 - 📝 I regularly write articles on [Medium]("https://medium.com/@andyflatiron")
-- 🌌 Ask me about **Perception**
+- 🌌 Ask me about **Augmented Reality**
 - 📨 How to reach me **redagus@gmail.com**
 - ✨ Fun fact: I have six siblings 
